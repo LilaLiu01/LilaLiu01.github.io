@@ -2,24 +2,29 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://english.bnu.edu.cn/'>Beijing Normal University</a>. Psychology Major. Vision Scientist. Teacher. Go Chess Player. Doll Designer.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>+1 6696492281</p>
+    <p>Santa Clara, CA</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome! I’m Lila. Thank you for taking a moment to visit my personal page! This is designed for communicating with fellow scientists and curious minds alike. Currently, I am a research assistant at IDG/Mcgovern Institute for Brain Research at BNU with Prof. [Chao Liu](https://liuchaolab.bnu.edu.cn/) to investigate social learning and heroism in Virtual Reality settings.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+In my academic pursuits, I have developed interest in visual perception, attention, computational modeling of cognition and behavior, perceptual engineering in XR space. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+A key aspect of my educational journey has been my passion for teaching and exploring pedagogical theories. I strongly advocate for the Concrete-Representational-Abstract approach and Scaffolding Theory.
+
+During my gap year, I have also been actively engaging with industry mentoring like AWS for contrastive learning in fMRI analysis, and collaborating with XR Bootcamp to develop more academia-friendly implementations for vision-related research in virtual environments.
+
+Jekyll will render your [publications page](/al-folio/publications/) automatically.
+
+Also, I love playing Go, playing piano and guitar, and all kinds of outdoor adventures. Durian and lobster are the ultimate stars of my culinary universe!
