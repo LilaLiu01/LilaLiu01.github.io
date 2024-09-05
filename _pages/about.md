@@ -17,14 +17,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Welcome! I’m Lila. Thank you for taking a moment to visit my personal page! This is designed for communicating with fellow scientists and curious minds alike. Currently, I am a research assistant at IDG/Mcgovern Institute for Brain Research at BNU with Prof. [Chao Liu](https://liuchaolab.bnu.edu.cn/) to investigate social learning and heroism in Virtual Reality settings.
+Welcome! I’m Lila. Thank you for taking a moment to visit my personal page! This is designed for communicating with fellow scientists and curious minds alike. Currently, I am a research assistant at IDG/Mcgovern Institute for Brain Research at BNU with Prof. [Chao Liu](https://liuchaolab.bnu.edu.cn/) to investigate social learning and heroism in immersive Virtual Reality settings.
 
 In my academic pursuits, I have developed interest in visual perception, attention, computational modeling of cognition and behavior, perceptual engineering in XR space. 
 
 A key aspect of my educational journey has been my passion for teaching and exploring pedagogical theories. I strongly advocate for the Concrete-Representational-Abstract approach and Scaffolding Theory.
 
 During my gap year, I have also been actively engaging with industry mentoring like AWS for contrastive learning in fMRI analysis, and collaborating with XR Bootcamp to develop more academia-friendly implementations for vision-related research in virtual environments.
-
-Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
 Also, I love playing Go, playing piano and guitar, and all kinds of outdoor adventures. Durian and lobster are the ultimate stars of my culinary universe!
