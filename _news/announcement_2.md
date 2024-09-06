@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-I will be presenting a poster on how visual mode switching benefited observers maintain perceptual accuracy while experience geometric distortions induced by lenses at VSS this year. Come stop by on Tuesday (5/20) morning (8:30-12:30) in the Banyan Breezeway! 
+<span style="font-size: 0.95em;">I will be presenting a poster on how visual mode switching benefited observers maintain perceptual accuracy while experience geometric distortions induced by lenses at VSS this year. Come stop by on Tuesday (5/20) morning (8:30-12:30) in the Banyan Breezeway!</span>
 ---
 
 #### Importance
@@ -18,4 +18,5 @@ I will be presenting a poster on how visual mode switching benefited observers m
 
 ---
 
-![Poster preview](assets/img/poster.jpg)
+![Poster preview](/Users/bra/LilaLiu01.github.io/assets/img/poster.jpg)
+
