@@ -8,15 +8,14 @@ category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+
+Patients with major depressive disorder (MDD) exhibit changes in how they learn from rewards and losses in non-social contexts. However, it remains unclear whether their capacity to learn from social interactions is similarly affected.
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
     ---
     layout: page
-    title: project
+    title: Social decision-making in adolescents with major depressive disorder revealed by repeated Trust Game with dynamic interaction
     description: a project with a background image
     img: /assets/img/12.jpg
     ---
