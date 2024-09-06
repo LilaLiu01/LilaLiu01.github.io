@@ -14,50 +14,56 @@
       "countryCode": "US",
       "region": "California"
     },
-  "work": [
-    {
-      "name": "IDG/Mcgovern Institute for Brain Research at BNU",
-      "position": "Research Assistant",
-      "url": "https://liuchaolab.bnu.edu.cn/",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "education": [
-    {
-      "institution": "Beijing Normal University",
-      "location": "Beijing, China",
-      "url": "https://www.uzh.ch/",
-      "area": "Psychology",
-      "studyType": "BS",
-      "startDate": "2019",
-      "endDate": "2023",
-      "score": "10",
-      "courses": ["Experimental Psychology, Physiological Psychology, Cognitive Psychology, Developmental Psychology, Linear Algebra, Statistics for Psychology, Data Analysis and Modeling in Neurobiology, Neuroscience"]
-    }
-  ],
-  "languages": [
-    {
-      "language": "Mandarin",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Psychology, Neuroscience",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Visual Perception",
-        "Quantum Computing",
-        "Attention",
-        "Computational Modeling",
-        "Wearable Optics"
-      ]
-    }
-  ]
+    "work": [
+      {
+        "name": "IDG/Mcgovern Institute for Brain Research at BNU",
+        "position": "Research Assistant",
+        "url": "https://liuchaolab.bnu.edu.cn/",
+        "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+        "highlights": [
+          "Relativity"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Beijing Normal University",
+        "location": "Beijing, China",
+        "url": "https://www.uzh.ch/",
+        "area": "Psychology",
+        "studyType": "BS",
+        "startDate": "2019",
+        "endDate": "2023",
+        "score": "10",
+        "courses": [
+          "Experimental Psychology, Physiological Psychology, Cognitive Psychology, Developmental Psychology, Linear Algebra, Statistics for Psychology, Data Analysis and Modeling in Neurobiology, Neuroscience"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Mandarin",
+        "fluency": "Native speaker",
+        "icon": ""
+      },
+      {
+        "language": "English",
+        "fluency": "Fluent",
+        "icon": ""
+      }
+    ],
+    "interests": [
+      {
+        "name": "Psychology, Neuroscience",
+        "icon": "fa-solid fa-tag",
+        "keywords": [
+          "Visual Perception",
+          "Quantum Computing",
+          "Attention",
+          "Computational Modeling",
+          "Wearable Optics"
+        ]
+      }
+    ]
+  }
+}
