@@ -1,7 +1,7 @@
 ---
 layout: page
 title: project 1
-description: with background image
+description: How real social interaction and prior reputation influence the investment decisions in the trust game
 img: assets/img/12.jpg
 importance: 1
 category: work
@@ -16,7 +16,7 @@ To give your project a background in the portfolio page, just add the img tag to
     ---
     layout: page
     title: Social decision-making in adolescents with major depressive disorder revealed by repeated Trust Game with dynamic interaction
-    description: a project with a background image
+    description: 
     img: /assets/img/12.jpg
     ---
 
