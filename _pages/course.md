@@ -20,7 +20,7 @@ social: true # includes social icons at the bottom of the page
 # Beijing Normal University Coursework
 **_Spring 2023_**\
 PSY 23002 Multifactorial Experimental Design - Hongyun Liu\
-PSY 13002 Educational Psychology - Hongrui Liu\
+PSY 13002 Educational Psychology - Hongrui Liu
 
 **_Fall 2021_**\
 PSY 23801: Abnormal Psychology – Zhuo Han\
@@ -78,7 +78,7 @@ PSYCH 205: Data Analysis - Frederic E Theunissen
 **_Spring 2024_**\
 CSCI 5561: Computer Vision – Hyun Soo Park\
 PSY 5063: Introduction to Functional MRI – Cheryl Olman\
-PSY 8888: Thesis Credit - Vanessa Lee
+PSY 8888: Thesis Credit 
 
 **_Fall 2023_**\
 CSCI 5525: Advanced Machine Learning – Nicholas Johnson\
