@@ -11,13 +11,21 @@ related_publications: true
 
 Patients with major depressive disorder (MDD) exhibit changes in how they learn from rewards and losses in non-social contexts. However, it remains unclear whether their capacity to learn from social interactions is similarly affected.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
     ---
-    layout: page
-    title: Social decision-making in adolescents with major depressive disorder revealed by repeated Trust Game with dynamic interaction
-    description: 
-    img: /assets/img/12.jpg
+### Within-Subjects Design:
+- **Levels of Prior Reputation:** No Information, High Reputation, Low Reputation
+- **Levels of Actual Trustworthiness:** High Trustworthiness, Low Trustworthiness, Coaxing (betrayal), Tit for Tat (reciprocity)
+- **Gain-Loss Frame:** Gain, Loss
+
+### Between-Subjects Variables:
+- **Personality Traits**
+- **Cognitive Abilities**
+
+### Dependent Variables:
+- **Investment Proportion per Round**
+- **Cumulative Investment Proportion**
+- **Slope of Cumulative Proportion Over Time**
+- **Initial Investment Proportion** (Decreased cooperation tendency can be reflected in the drop of investment proportion)
     ---
 
 <div class="row">
