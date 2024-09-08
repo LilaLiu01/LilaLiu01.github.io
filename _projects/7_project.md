@@ -1,24 +1,24 @@
 ---
 layout: page
-title: project 7
+title: Serial Dependence in Radiologists
 description: with background image
 img: assets/img/4.jpg
 importance: 1
-category: work
+category: Research Projects
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Human perception is influenced by prior visual experiences, with the tendency of our visual system to misinterpret current stimuli in the direction of previously encountered stimuli being referred to as serial dependence {% cite fischer2014serial %}.
+
+The visual environment exhibits temporal auto-correlation. \
+Some important tuning properties of serial dependencies:
 
     ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
+    Temporal tuning: SD effect was also found to decrease linearly with increasing temporal delay between current and previous trials
+    Spatial tuning: SD effect diminishes progressively as the spatial distance between current and previous objects increases.
+    Feature tuning: SD is observed with more similar sequential objects and is evident in low-level features such as orientation, position, color, and shape
+    Attentional tuning: Attention can influence the decay of SD over time, as well as in terms of spatial and feature similarity.
     ---
 
 <div class="row">
@@ -44,7 +44,7 @@ To give your project a background in the portfolio page, just add the img tag to
     This image can also have a caption. It's like magic.
 </div>
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
+You can also put regular text between your rows of images, even citations {% cite fischer2014serial %}.
 Say you wanted to write a bit about your project before you posted the rest of the images.
 You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
 

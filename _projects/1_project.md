@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
+title: Social Learning in MDD Patients
 description: How real social interaction and prior reputation influence the investment decisions in the trust game
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: Research Projects
 related_publications: true
 ---
 
@@ -13,18 +13,18 @@ Patients with major depressive disorder (MDD) exhibit changes in how they learn 
 
     ---
     Within-Subjects Design:
-    - Levels of Prior Reputation:** No Information, High Reputation, Low Reputation
-    - Levels of Actual Trustworthiness:** High Trustworthiness, Low Trustworthiness, Coaxing (betrayal), Tit for Tat (reciprocity)
-    - Gain-Loss Frame:** Gain, Loss
+    - Levels of Prior Reputation: No Information, High Reputation, Low Reputation
+    - Levels of Actual Trustworthiness: High Trustworthiness, Low Trustworthiness, Coaxing (betrayal), Tit for Tat (reciprocity)
+    - Gain-Loss Frame: Gain, Loss
 
     Between-Subjects Variables:
-    - Personality Traits**
-    - Cognitive Abilities**
+    - Personality Traits
+    - Cognitive Abilities
 
     Dependent Variables:
-    - Investment Proportion per Round**
-    - Cumulative Investment Proportion**
-    - Slope of Cumulative Proportion Over Time**
+    - Investment Proportion per Round
+    - Cumulative Investment Proportion
+    - Slope of Cumulative Proportion Over Time
     - Initial Investment Proportion** (Decreased cooperation tendency can be reflected in the drop of investment proportion)
       ---
 
@@ -66,7 +66,7 @@ Patients with major depressive disorder (MDD) exhibit changes in how they learn 
     </div>
 </div>
 <div class="caption">
-    Model Formalism of 4 candidate reinforcement learning models.
+    Model formalism of 4 candidate reinforcement learning models.
 </div>
 
 The AIC, BIC, and the parsimony principle consistently favored the **GL model** across all experimental conditions for each participant group. Model recovery indicated that simulations based on the **GL model** successfully captured the key aspects of the original investment behavior.
