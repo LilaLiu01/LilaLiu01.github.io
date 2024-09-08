@@ -12,21 +12,21 @@ related_publications: true
 Patients with major depressive disorder (MDD) exhibit changes in how they learn from rewards and losses in non-social contexts. However, it remains unclear whether their capacity to learn from social interactions is similarly affected.
 
     ---
-### Within-Subjects Design:
-- **Levels of Prior Reputation:** No Information, High Reputation, Low Reputation
-- **Levels of Actual Trustworthiness:** High Trustworthiness, Low Trustworthiness, Coaxing (betrayal), Tit for Tat (reciprocity)
-- **Gain-Loss Frame:** Gain, Loss
+    ### Within-Subjects Design:
+    - **Levels of Prior Reputation:** No Information, High Reputation, Low Reputation
+    - **Levels of Actual Trustworthiness:** High Trustworthiness, Low Trustworthiness, Coaxing (betrayal), Tit for Tat (reciprocity)
+    - **Gain-Loss Frame:** Gain, Loss
 
-### Between-Subjects Variables:
-- **Personality Traits**
-- **Cognitive Abilities**
+    ### Between-Subjects Variables:
+    - **Personality Traits**
+    - **Cognitive Abilities**
 
-### Dependent Variables:
-- **Investment Proportion per Round**
-- **Cumulative Investment Proportion**
-- **Slope of Cumulative Proportion Over Time**
-- **Initial Investment Proportion** (Decreased cooperation tendency can be reflected in the drop of investment proportion)
-    ---
+    ### Dependent Variables:
+    - **Investment Proportion per Round**
+    - **Cumulative Investment Proportion**
+    - **Slope of Cumulative Proportion Over Time**
+    - **Initial Investment Proportion** (Decreased cooperation tendency can be reflected in the drop of investment proportion)
+      ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -40,7 +40,7 @@ Patients with major depressive disorder (MDD) exhibit changes in how they learn 
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    We modified the rTG (Fouragnan, 2013) by altering the disclosure of partners' reputations and the likelihood of reciprocity, with participants consistently playing the role of investors.
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
