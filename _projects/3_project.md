@@ -1,11 +1,12 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
+title: "Tunnel Vision and Beyond: Unveiling Implicit Spatial Learning with the 'Mouse-Eye' Approach"
+description: Despite peripheral vision loss simulated using "mouse-eye" paradigm, implicit spatial context learning remains robust, with participants showing significant contextual cueing effects during both tunnel vision training and full-vision testing
 img: assets/img/7.jpg
-redirect: https://unsplash.com
+redirect: https://osf.io/7s258/
 importance: 3
-category: work
+category: Research Projects
+related_publications: true
 ---
 
 Every project has a beautiful feature showcase page.
