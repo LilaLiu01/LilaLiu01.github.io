@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Serial Dependence in Radiologists
-description: Serial dependence affects radiologists' recognition of lesions in radiographs, with perception on average trials being influenced by the most recent ones.
+description: Radiologists' recognition of lesions in radiographs on average were influenced by the most recent ones.
 img: assets/img/4.jpg
 importance: 1
 category: Research Projects
