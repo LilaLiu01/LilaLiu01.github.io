@@ -18,5 +18,5 @@ related_posts: false
 
 ---
 
-![Poster preview](/Users/bra/LilaLiu01.github.io/assets/img/poster.jpg)
+![Poster preview](assets/img/poster.jpg)
 
