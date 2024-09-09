@@ -16,7 +16,7 @@ Some quotes that reflect my teaching philosophy:
 ## Undergraduate Courses
 
 - Matlab Technology in Psychology\
-    - _Spring 2021: 16hr technician scholars_ [[code](https://github.com/LilaLiu01/ExpPsyCode)]
+    - _Spring 2021: Technician scholars_ [[code](https://github.com/LilaLiu01/ExpPsyCode)]
     - _Spring 2023: Reader_ [[code](https://github.com/LilaLiu01/ExpPsyCode)]
       - - Use Matlab to design and implement classic cognitive psychology experiments covering topics: Snarc Effect, Attentional Blink, Stroop Effect, The Posner Cueing Task, McGurk Effect etc.
 

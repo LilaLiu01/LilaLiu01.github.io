@@ -24,8 +24,9 @@ Some important tuning properties of serial dependencies:
     Attentional tuning: Attention can influence the decay of SD over time, as well as in terms of spatial and feature similarity.
     ---
 
-Stimuli: 3 prototypes * 48 morph shapes between each pair = 147 stimuli\
-Location: 3.7° shapes blurred by gaussian kernel size of 1.55°, presented at peripheral visual field with 4.4° eccentricity.
+**Stimuli:** 3 prototypes * 48 morph shapes between each pair = 147 stimuli\
+**Location:** 3.7° shapes blurred by gaussian kernel size of 1.55°, presented at peripheral visual field with 4.4° eccentricity.
+
 <div class="row">
     <div class="col-4 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/13.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -41,12 +42,16 @@ Location: 3.7° shapes blurred by gaussian kernel size of 1.55°, presented at p
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/15.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/17.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
 <div class="caption">
     Even in trained radiologists, they exhibited a perceptual pull of ~ 13% towards previously seen tumors.
 </div>
 
-- Temporal tuning analysis: 
+- Temporal tuning analysis:\
+The von Mises function is a circular probability distribution, while the derivative of the von Mises fit can help model how the circular variable (shapes) evolves over response errors.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
@@ -54,25 +59,18 @@ Location: 3.7° shapes blurred by gaussian kernel size of 1.55°, presented at p
     </div>
 </div>
 <div class="caption">
-    
+    Temporal tuning is measured by fitting a derivative of the von Mises function to each subject's data. 
 </div>
 
+- Spatial tuning analysis: 
 
-- Spatial tuning analysis: \
-
-
-
-{% raw %}
-
-```html
 <div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/16.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
-```
+<div class="caption">
+    Relative angular distance was divided into 3 groups between 0°–180°. 
+</div>
 
-{% endraw %}
+I'm interested in mitigating the negative impact of serial effects to enhance diagnostic accuracy.

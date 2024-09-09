@@ -67,7 +67,7 @@ GEN 04171: Studies that Changed Psychology I - Qingfen Hu
 
 
 # UC Berkeley Coursework
-**_Spring 2022_**\ 
+**_Spring 2022_**\
 PSYCH C126: Perception – David Whitney\
 PSYCH 124: The Evolution of Human Behavior – Lucia Jacobs\
 COGSCI C100: Efficient Algorithms and Intractable Problems – Davina P Chan\
