@@ -17,6 +17,29 @@ nav_order: 6
 social: true # includes social icons at the bottom of the page
 ---
 
+# University of Minnesota Coursework
+**_Spring 2024_**\
+CSCI 5561: Computer Vision – Hyun Soo Park\
+PSY 5063: Introduction to Functional MRI – Cheryl Olman\
+PSY 8888: Thesis Credit
+
+**_Fall 2023_**\
+CSCI 5525: Advanced Machine Learning – Nicholas Johnson\
+PSY 5993: Research Lab in Psychology – Stephen Engel\
+PSY 8041: Proseminar in Perception – Daniel Kersten\
+STAT 5021: Stat Analysis - Lu Yang
+
+
+
+# UC Berkeley Coursework
+**_Spring 2022_**\
+PSYCH C126: Perception – David Whitney\
+PSYCH 124: The Evolution of Human Behavior – Lucia Jacobs\
+COGSCI C100: Efficient Algorithms and Intractable Problems – Davina P Chan\
+PSYCH 205: Data Analysis - Frederic E Theunissen
+
+
+
 # Beijing Normal University Coursework
 **_Spring 2023_**\
 PSY 23002 Multifactorial Experimental Design - Hongyun Liu\
@@ -66,25 +89,6 @@ GEN 04171: Studies that Changed Psychology I - Qingfen Hu
 
 
 
-# UC Berkeley Coursework
-**_Spring 2022_**\
-PSYCH C126: Perception – David Whitney\
-PSYCH 124: The Evolution of Human Behavior – Lucia Jacobs\
-COGSCI C100: Efficient Algorithms and Intractable Problems – Davina P Chan\
-PSYCH 205: Data Analysis - Frederic E Theunissen
-
-
-# University of Minnesota Coursework
-**_Spring 2024_**\
-CSCI 5561: Computer Vision – Hyun Soo Park\
-PSY 5063: Introduction to Functional MRI – Cheryl Olman\
-PSY 8888: Thesis Credit 
-
-**_Fall 2023_**\
-CSCI 5525: Advanced Machine Learning – Nicholas Johnson\
-PSY 5993: Research Lab in Psychology – Stephen Engel\
-PSY 8041: Proseminar in Perception – Daniel Kersten\
-STAT 5021: Stat Analysis - Lu Yang
 
 ---
 
@@ -93,6 +97,8 @@ STAT 5021: Stat Analysis - Lu Yang
 Note: $$*:=$$ `finished with certificate`
 <!-- > $$* *:= $$ `referenced a snippet of the material` -->
 
+**_Fall 2024 (ongoing)_**\
+Coursera: Computational Neuroscience\
 **_Spring 2022_**\
 Coursera Deeplearning.ai\*: Neural Networks and Deep Learning\
 **_Winter 2022_**\
