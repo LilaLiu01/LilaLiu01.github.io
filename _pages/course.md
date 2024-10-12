@@ -99,6 +99,8 @@ Note: $$*:=$$ `finished with certificate`
 
 **_Fall 2024 (ongoing)_**\
 Coursera: Computational Neuroscience\
+**_Fall 2023_**\
+Coursera: Principles of fMRI II\
 **_Spring 2022_**\
 Coursera Deeplearning.ai\*: Neural Networks and Deep Learning\
 **_Winter 2022_**\
