@@ -97,9 +97,7 @@ GEN 04171: Studies that Changed Psychology I - Qingfen Hu
 Note: $$*:=$$ `finished with certificate`
 <!-- > $$* *:= $$ `referenced a snippet of the material` -->
 
-**_Fall 2024 (ongoing)_**\
-Coursera: Computational Neuroscience\
-**_Fall 2023_**\
+**_Spring 2023_**\
 Coursera: Principles of fMRI II\
 **_Spring 2022_**\
 Coursera Deeplearning.ai\*: Neural Networks and Deep Learning\
