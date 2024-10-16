@@ -4,7 +4,6 @@ github_users:
 repo_description_lines_max: 1
 
 github_repos:
-  - LilaLiu01/sXR
   - LilaLiu01/BrainCognit
   - LilaLiu01/AFNI_DoubleExposure_Cued
   - LilaLiu01/rTG_comparison
