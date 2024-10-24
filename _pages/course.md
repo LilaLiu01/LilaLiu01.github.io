@@ -25,7 +25,6 @@ PSY 8888: Thesis Credit
 
 **_Fall 2023_**\
 CSCI 5525: Advanced Machine Learning – Nicholas Johnson\
-PSY 5993: Research Lab in Psychology – Stephen Engel\
 PSY 8041: Proseminar in Perception – Daniel Kersten\
 STAT 5021: Stat Analysis - Lu Yang
 
