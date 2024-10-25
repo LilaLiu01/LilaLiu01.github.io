@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Poster presented on the 2024 Vision Science Society conference
+title: Poster presented on the 2024 Vision Science Society conference and won the Elsevier/Vision Research Travel Award!
 date: 2024-05-20 16:11:00-0400
 inline: false
 related_posts: false
