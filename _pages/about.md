@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Welcome! I’m Lila. Thank you for taking a moment to visit my personal page! This is designed for communicating with fellow scientists and curious minds alike. Currently, I am a research assistant at Perception & Motion Lab at UC Berkeley with Prof. [David Whitney](https://vcresearch.berkeley.edu/faculty/david-whitney) to investigate serial dependence.
+Welcome! I’m Lila. Thank you for taking a moment to visit my personal page! This is designed for communicating with fellow scientists and curious minds alike. Currently, I am a research assistant at Perception & Motion Lab at UC Berkeley with Prof. [David Whitney](https://vcresearch.berkeley.edu/faculty/david-whitney) and Dr. [Veith Weilnhammer](https://veithweilnhammer.github.io/) to investigate serial dependence.
 
 In my academic pursuits, I have developed interest in visual perception, attention, computational modeling of cognition and behavior, perceptual engineering in XR space. 
 
