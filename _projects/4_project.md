@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "BrainCognit: Enhancing fMRI Signal Learning through Region-Aware Contrastive Learning"
-description: 
+title: "BrainCognit"
+description: Enhancing fMRI Signal Learning through Region-Aware Contrastive Learning
 img: assets/img/6.jpg
 importance: 3
 category: Featured Projects
