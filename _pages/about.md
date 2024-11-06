@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://english.bnu.edu.cn/'>Beijing Normal University</a>. Psychology Major. Vision Scientist. Teacher. Go Chess Player. Doll Designer.
+subtitle: <a href='https://english.bnu.edu.cn/'>Beijing Normal University</a> Psychology graduate. Vision Scientist. Teacher. Go Chess Player. Doll Designer.
 
 profile:
   align: right
