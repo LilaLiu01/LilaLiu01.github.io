@@ -34,7 +34,7 @@ STAT 5021: Stat Analysis - Lu Yang
 **_Spring 2022_**\
 PSYCH C126: Perception – David Whitney\
 PSYCH 124: The Evolution of Human Behavior – Lucia Jacobs\
-COGSCI C100: Efficient Algorithms and Intractable Problems – Davina P Chan\
+COGSCI C100: Basic Issues in Cognition – Davina P Chan\
 PSYCH 205: Data Analysis - Frederic E Theunissen
 
 
@@ -96,13 +96,14 @@ GEN 04171: Studies that Changed Psychology I - Qingfen Hu
 Note: $$*:=$$ `finished with certificate`
 <!-- > $$* *:= $$ `referenced a snippet of the material` -->
 
+**_Summer 2023_**\
+Neuromatch Academy\*: Deep Learning Track\
+Coursera: Convolutional Neural Networks
 **_Spring 2023_**\
 Coursera: Principles of fMRI II\
 **_Spring 2022_**\
 Coursera Deeplearning.ai\*: Neural Networks and Deep Learning\
 **_Winter 2022_**\
 Coursera Deeplearning.ai: Deep Learning Specialization\
-**_Summer 2023_**\
-Neuromatch Academy\*: Deep Learning Track\
-Coursera: Convolutional Neural Networks
+
 
