@@ -98,12 +98,12 @@ Note: $$*:=$$ `finished with certificate`
 
 **_Summer 2023_**\
 Neuromatch Academy\*: Deep Learning Track\
-Coursera: Convolutional Neural Networks
+Coursera: Convolutional Neural Networks\
 **_Spring 2023_**\
 Coursera: Principles of fMRI II\
 **_Spring 2022_**\
 Coursera Deeplearning.ai\*: Neural Networks and Deep Learning\
 **_Winter 2022_**\
-Coursera Deeplearning.ai: Deep Learning Specialization\
+Coursera Deeplearning.ai: Deep Learning Specialization
 
 
